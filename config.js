@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '6',
-			name: 'Pocketcasts',
-			icon: 'podcast',
-			link: 'https://play.pocketcasts.com/podcasts',
+			name: 'AP News',
+			icon: 'newspaper',
+			link: 'https://apnews.com/',
 		},
 		{
 			id: '5',
